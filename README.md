@@ -20,8 +20,6 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 
 ## Glimpse of our cloned website
 
-![image](https://user-images.githubusercontent.com/76626095/141648665-be7044d1-4696-44ab-9c40-24bfe527ddde.png)
-
 1. This is the sign up page of our Website.
 
 
@@ -59,28 +57,3 @@ Collaboratively built with a UI/UX Designer, using ReactJS, Styled-JSX, ExpressJ
 9.It gives options for self dilivery or pickup.
 
 ![image (11)](https://user-images.githubusercontent.com/86429170/141607270-43641703-895f-4c75-aa6c-802a39348d12.png)
-
-
-
-## Usage
-
-To run the application locally; clone the repo, install dependencies and run the app.
-
-```
-$ git clone https://github.com/mansisindhu/seva-the-food-sharing-frontend.git
-$ cd seva-food-sharing-frontend
-$ yarn && npm start
-```
-
-The app starts in development mode and opens a browser window on `http://localhost:3000`. The project rebuilds and the browser reloads automatically when source files are changed. Any build or runtime errors are propagated and displayed in the browser.
-
-
-## Backend repo link
-
-- [backend repo link](https://github.com/mansisindhu/seva-the-food-sharing-backend.git)
-
-
-
-
-
-
